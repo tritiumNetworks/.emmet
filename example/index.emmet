@@ -1,0 +1,27 @@
+html
+  head
+    title{.emmet test}
+
+  body
+    .container
+      h1.title{Hello, world!}
+      lo
+        li{is better}*3
+      hr
+
+    .demo
+      h${This is h$ tag}*6
+      hr
+
+    lorem
+    hr
+
+    table.tb[style='border: 1px solid black;']
+      tbody
+        tr
+          td{a}
+          td{b}
+          td{c}
+
+        tr
+          td{$}*3

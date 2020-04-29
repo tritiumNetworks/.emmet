@@ -1,0 +1,14 @@
+{
+  "name": "dotemmet",
+  "version": "1.0.0",
+  "description": ".emmet file to html file",
+  "main": "index.js",
+  "repository": "https://github.com/tritiumNetworks/.emmet.git",
+  "author": "pmh-only <pmhstudio.pmh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "emmet": "^2.0.0"
+  },
+  "bin": "index.js"
+}
