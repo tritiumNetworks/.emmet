@@ -10,5 +10,6 @@
     "chalk": "^4.0.0",
     "emmet": "^2.0.0"
   },
+  "keywords": ["cli", "html", "emmet", "parser", "renderer"],
   "bin": "index.js"
 }
