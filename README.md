@@ -15,14 +15,11 @@ html
       h1.title{Hello, world!}
       lo
         li{is better}*3
-      hr
 
     .demo
       h${This is h$ tag}*6
-      hr
 
     lorem
-    hr
 
     table.tb[style='border: 1px solid black;']
       tbody
@@ -49,7 +46,6 @@ output
 			<li>is better</li>
 			<li>is better</li>
 		</lo>
-		<hr>
 	</div>
 	<div class="demo">
 		<h1>This is h1 tag</h1>
@@ -58,10 +54,8 @@ output
 		<h4>This is h4 tag</h4>
 		<h5>This is h5 tag</h5>
 		<h6>This is h6 tag</h6>
-		<hr>
 	</div>
 	Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, totam expedita? Ex inventore incidunt a accusamus eligendi rem iusto minus optio? Nam ad eveniet blanditiis beatae id similique laudantium iusto.
-	<hr>
 	<table class="tb" style="border: 1px solid black;">
 		<tbody>
 			<tr>
@@ -81,12 +75,12 @@ output
 ```
 
 ## installation
-use trash
+use npm
 ```
 npm -g install dotemmet
 ```
 
-or use yarn
+or use yarn (**highly recommend**)
 ```
 yarn global add dotemmet
 ```

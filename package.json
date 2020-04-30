@@ -1,6 +1,6 @@
 {
   "name": "dotemmet",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": ".emmet file to html file",
   "main": "index.js",
   "repository": "https://github.com/tritiumNetworks/.emmet.git",
